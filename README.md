@@ -2,7 +2,6 @@
 
 #### Atualmente estou aprendendo
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20"/> Figma
 
 #### Linguagens e ferramentas
 
