@@ -1,17 +1,16 @@
 ## Olá! me chamo Gabriel :)
 
-#### Atualmente estou aprendendo
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/> JavaScript
+### Atualmente aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" width="130"/> 
+<br>*NodeJs* <img width="25">*pacotes npm*</img>
 
-#### Linguagens e ferramentas
+### Linguagens ferramentas 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,express,webpack,mongodb)](https://skillicons.dev)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="33" height="33"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="33" height="33"/>
+### Aprendendo nesses repositórios:
+> ![projetos](https://img.shields.io/badge/mini_projetos-7F32B3) - pequenos projetos feitos para praticar ferramentas e tecnologias<br>
+> ![curso js typescript](https://img.shields.io/badge/repositório_>learn_javascript<-B2327D) - contém todo código usado por mim para aprender javascript e nodejs
 
-
-
-#### [Me conheça melhor! clique aqui](https://gabriel-tomas.github.io/portfolio-2023/)
-          
-          
 
           
           
