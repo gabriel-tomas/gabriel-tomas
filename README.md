@@ -2,7 +2,7 @@
 
 ### Atualmente aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" width="120"/>
-<br>*NodeJs* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Express*
+<br>*NodeJs* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Express*
 
 ### Linguagens, ferramentas e frameworks
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,express,webpack,mongodb)](https://skillicons.dev)
