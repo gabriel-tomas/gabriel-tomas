@@ -5,7 +5,7 @@
 <br>*Express* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *React* &nbsp;&nbsp;&nbsp;&nbsp; *TypeScript*
 
 ### Linguagens, ferramentas e frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,express,react,webpack,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,nodejs,express,react,styledcomponents,webpack,mongodb)](https://skillicons.dev)
 
 ### Aprendendo nesses repositórios:
 > [![projetos](https://img.shields.io/badge/mini_projetos-7F32B3)](https://github.com/gabriel-tomas/mini-projects-javascript) - pequenos projetos feitos para praticar javascript e nodejs<br>
